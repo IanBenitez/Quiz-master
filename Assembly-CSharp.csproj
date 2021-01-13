@@ -68,6 +68,7 @@
     <Compile Include="Assets\Quiz\Scripts\QuizGameUI.cs" />
     <Compile Include="Assets\Quiz\Scripts\QuizManager.cs" />
     <Compile Include="Assets\Quiz\Scripts\ShuffleList.cs" />
+    <None Include="Assets\Quiz\SMX QUIZ\Expliaición.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.10f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

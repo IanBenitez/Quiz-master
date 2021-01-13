@@ -1,0 +1,18 @@
+Fondo: Encontraras el fondo que e creado para el juego sin nada, simplemente el fondo
+-has ganado-: és la pantalla que sale cuando ganas, hay dos tipos de videos escojer el que mas os guste 
+-has perdido-: és la pantalla que sale cuando pierdes,hay dos tipos de videos escojer el que mas os guste 
+Logos: Hay los diferentes logos del juegp, hay tres tipos de videos escojer el que mas os guste 
+Portada foto: La portada del juego en .img
+Portada video: las portadas del juego, con boton, sin, i otro tipos de letras, hay dos tipos de videos escojer el que mas os guste 
+Preguntas: hay unas 55 preguntas
+
+*Para ayudar os e dejado juegos de ejemplo con scripts que nos pueden ayudar*
+
+- https://github.com/kc70x/Unity-Quiz-Game
+- https://github.com/srbarrios/susequiz
+- https://github.com/lai32290/unity-quiz
+
+
+Me pasado horas para hacer bien esto currarsolo vosotros tambien jajajaj
+
+

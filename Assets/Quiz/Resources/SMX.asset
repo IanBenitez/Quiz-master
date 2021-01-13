@@ -12,115 +12,293 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
   m_Name: SMX
   m_EditorClassIdentifier: 
-  categoryName: SMX
+  categoryName: JUGA
   questions:
-  - questionInfo: Quien es el mejor profe?
+  - questionInfo: "Quina de les seg\xFCents opcions corresponen a tipus de Sistemes
+      Operatius Existents en el mercat"
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Narcis
-    - Ciberta
-    - "Ning\xFA"
-    - Cano
-    correctAns: Cano
-  - questionInfo: Which animal can climb trees?
+    - Windows, Mac Os, Linux
+    - Office, Word, Excel
+    - Mother Board, Mouse, Teclado
+    - "Internet, Servidor, Conexi\xF3n FTP"
+    correctAns: Windows, Mac Os, Linux
+  - questionInfo: "Quin programa d'ofim\xE0tica utilitzem per escriure cartes"
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Zebra
-    - Bear
-    - Hyna
-    - Monkey
-    correctAns: Monkey
-  - questionInfo: Which of the following animal is Herbivorous?
+    - Word
+    - Excel
+    - Internet
+    - Pluma y papel
+    correctAns: Word
+  - questionInfo: "Quan realitzem dibuixos i fem edici\xF3 d'imatges a l'ordinador
+      amb quin programa ho fem"
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Crocodile
-    - Moose
-    - Bear
-    - Panther
-    correctAns: Moose
-  - questionInfo: Who can walk on 2 legs?
+    - Paint
+    - Fireworks
+    - Photoshop
+    - Qualsevol de les 3 anteriors
+    correctAns: Qualsevol de les 3 anteriors
+  - questionInfo: "Els elements de un ordinador son nom\xE9s teclat i ratol\xED"
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Dog
-    - Cat
-    - Human
-    - Turtle
-    correctAns: Human
-  - questionInfo: Slowest animal on the earth?
+    - Veritat
+    - Fals
+    - a vegades
+    - Totes son correctes
+    correctAns: Fals
+  - questionInfo: Menciona que son los elementos de entrada a un ordenador
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Cheeta
-    - Sloth
-    - Leapord
-    - Tortois
-    correctAns: Sloth
-  - questionInfo: Slowest animal on the earth?
+    - Son programas en espera a ser ejecutados
+    - Son los que permiten dar entrada al cpu
+    - Son los que te permiten abrir Internet
+    - Teclado, Raton, Microfono
+    correctAns: Teclado, Raton, Microfono
+  - questionInfo: "Qu\xE9 funci\xF3n cree que cumplen los dispositivos que est\xE1n
+      conectados a la computadora"
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Cheeta
-    - Sloth
-    - Leapord
-    - Tortois
-    correctAns: Sloth
-  - questionInfo: Slowest animal on the earth?
+    - Adornar el ordenador
+    - Permiten la entrada como la salida de procesos
+    - Permitenel libre acceso al cpu
+    - Sirven para que se encienda correctamente un ordenador
+    correctAns: Permiten la entrada como la salida de procesos
+  - questionInfo: El teclado permite la entrada de datos al ordenador
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Cheeta
-    - Sloth
-    - Leapord
-    - Tortois
-    correctAns: Sloth
-  - questionInfo: Slowest animal on the earth?
+    - Veritat
+    - Fals
+    correctAns: Veritat
+  - questionInfo: "Cu\xE1l cree que permiten la salida de informaci\xF3n"
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Cheeta
-    - Sloth
-    - Leapord
-    - Tortois
-    correctAns: Sloth
-  - questionInfo: Slowest animal on the earth?
+    - Teclado
+    - Mouse
+    - Monitor
+    - "Micr\xF3fono"
+    correctAns: Monitor
+  - questionInfo: Que son dispositivos de almacenamiento
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Cheeta
-    - Sloth
-    - Leapord
-    - Tortois
-    correctAns: Sloth
-  - questionInfo: Slowest animal on the earth?
+    - "Permiten la comunicaci\xF3n entre los usuarios y el ordenador"
+    - "Proporcionan almacenamiento no vol\xE1til de datos y memoria"
+    - "Permiten conectar a la computadora con otras a trav\xE9s de una interfaz de
+      red"
+    correctAns: "Proporcionan almacenamiento no vol\xE1til de datos y memoria"
+  - questionInfo: Que son Dispositivos de Comunicaciones
     questionType: 0
     questionImage: {fileID: 0}
     audioClip: {fileID: 0}
     videoClip: {fileID: 0}
     options:
-    - Cheeta
-    - Sloth
-    - Leapord
-    - Tortois
-    correctAns: Sloth
+    - " Proporcionan almacenamiento no vol\xE1til de datos y memoria"
+    - "Permiten la comunicaci\xF3n entre los usuarios y la computadora"
+    - "Permiten conectar a la computadora con otras a trav\xE9s de una interfaz de
+      red"
+    - ' Windows Live Messenger'
+    correctAns: "Permiten la comunicaci\xF3n entre los usuarios y la computadora"
+  - questionInfo: Barra de tareas
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Es la barra situada en la parte superior de la ventana
+    - ' Es la barra situada en la parte central de la ventana '
+    - Es la barra situada en la parte inferior de la pantalla
+    - Es la barra situada en la parte superior de la pantalla
+    correctAns: Es la barra situada en la parte inferior de la pantalla
+  - questionInfo: 'La barra de desplazamiento permite '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Desplazarnos dentro de la ventana para ver su contenido
+    - Mostrar cual es el nombre de la ventana
+    - "Ver los nombres de los men\xFAs "
+    - "Conocer la ubicaci\xF3n de las carpetas"
+    correctAns: Desplazarnos dentro de la ventana para ver su contenido
+  - questionInfo: "Cu\xE1l es la combinaci\xF3n de teclas que sirve para cerrar una
+      ventana"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 'ALT+F4 '
+    - CTL+ALT+Z
+    - ENTER
+    - ALT+SHIFT
+    correctAns: 'ALT+F4 '
+  - questionInfo: "Un Hiperv\xEDnculo es"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Otra p\xE1gina para encontrar informaci\xF3n"
+    - Otro nombre para el URL
+    - "Un punto de navegaci\xF3n para ir a otra p\xE1gina"
+    - Una propaganda
+    correctAns: "Un punto de navegaci\xF3n para ir a otra p\xE1gina"
+  - questionInfo: El sistema operativo de Windows pertenece al tipo de Software secundario
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Falso
+  - questionInfo: "La barra de t\xEDtulo muestra el nombre del programa y el nombre
+      de la presentaci\xF3n actual "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Verdadero
+  - questionInfo: "La barra de herramientas es la barra que contiene los men\xFAs
+      con todas las acciones que podemos aplicar a una presentaci\xF3n"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Verdadero
+  - questionInfo: "Para crear una presentaci\xF3n nueva puedo desplegar el men\xFA
+      Archivo y seleccionar la opci\xF3n nueva presentaci\xF3n o bien hacerlo desde
+      el Panel de Tareas"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Verdadero
+  - questionInfo: Podemos utilizar una plantilla para que todas nuestras diapositivas
+      tengan el mismo fondo
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Verdadero
+  - questionInfo: "Si utilizamos la opci\xF3n Guardar como estaremos cambiando el
+      nombre de la presentaci\xF3n"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Falso
+  - questionInfo: "Se puede crear una p\xE1gina Web a partir de una presentaci\xF3n
+      PowerPoint"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Falso
+  - questionInfo: "El men\xFA Ventana de la barra de men\xFAs sirve para ver en miniatura
+      las presentaciones que tenemos en el disco duro"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Falso
+  - questionInfo: "El zoom sirve para ver el \xE1rea seleccionada desde m\xE1s cerca
+      o desde m\xE1s lejos"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Verdadero
+  - questionInfo: Para copiar un objeto tenemos que seleccionarlo primero
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Verdadero
+  - questionInfo: "Excel es un programa que permite manipular datos num\xE9ricos
+      y alfanum\xE9ricos dispuestos en forma de tablas"
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Verdadero
+    - Falso
+    - 
+    - 
+    correctAns: Verdadero
